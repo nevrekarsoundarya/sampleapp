@@ -10,6 +10,7 @@ public class SalesClass {
 			System.out.println(num);
 		}
 		System.out.println(sum);
+		System.out.println("Printing");
 	}
 	public static void main(String[] args)
 	{
