@@ -11,6 +11,7 @@ public class SalesClass {
 		}
 		System.out.println(sum);
 		System.out.println("Printing");
+		System.out.println("Yes");
 	}
 	public static void main(String[] args)
 	{
